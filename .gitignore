@@ -1,0 +1,6 @@
+.env
+uploads/
+story.txt
+node_modules
+info.txt
+package-lock.json
